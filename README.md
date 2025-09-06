@@ -29,7 +29,7 @@ I gave myself 10 days for this and split topics like this:
 - Day 9 → dictionaries  
 - Day 10 → sets + revision  
 
-📂 All notebooks are inside [`01-Python-Basics`](./01-Python-Basics/).  
+📂 All notebooks are inside [`Python`](./01-Python-Basics/).  
 
 ---
 
@@ -50,7 +50,7 @@ Topics I covered:
 - extra stuff like `.explode()`, `axis=1` functions  
 - datetime handling, resampling, rolling  
 
-📂 All notebooks are inside [`02-Pandas`](./02-Pandas/).  
+📂 All notebooks are inside [`Pandas`](./02-Pandas/).  
 
 ---
 
@@ -71,7 +71,7 @@ Topics I covered:
 - boolean indexing & filtering  
 - linear algebra basics (dot product, inverse, determinant)  
 
-📂 All notebooks are inside [`03-NumPy`](./03-NumPy/).  
+📂 All notebooks are inside [`NumPy`](./03-NumPy/).  
 
 ---
 
