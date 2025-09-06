@@ -29,7 +29,7 @@ I gave myself 10 days for this and split topics like this:
 - Day 9 → dictionaries  
 - Day 10 → sets + revision  
 
-📂 All notebooks are inside [`Python`](./01-Python-Basics/).  
+📂 All notebooks are [here](https://github.com/ShreyanshiJaiswal/Python_Learning_log/tree/main/Python).  
 
 ---
 
