@@ -12,7 +12,8 @@ Everything is done on **Google Colab**.
 ## Python (1st – 10th August 2025)  
 
 For Python, I followed [CodeWithHarry’s playlist](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=3OwNeMYnh0QJ1avq).  
-I made my own handwritten notes while watching the videos and kept looking back at them whenever I needed revision. Alongside that, I also asked ChatGPT simple beginner-level questions, copied them into Colab as comments, and then solved them step by step. Basically → comment the question, write the code, run it, then move on to the next one in a new cell.  
+I made my own handwritten notes while watching the videos and kept looking back at them whenever I needed revision. Alongside that, I also asked ChatGPT simple beginner-level questions, copied them into Colab as comments, and then solved them step by step.
+Basically → comment the question, write the code, run it, then move on to the next one in a new cell.  
 
 I gave myself 10 days for this and split topics like this:  
 
