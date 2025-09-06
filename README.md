@@ -34,7 +34,7 @@ I gave myself 10 days for this and split topics like this:
 
 ## Pandas  
 
-For Pandas, I mostly learned from [Ankit Bansal’s Channel](https://youtu.be/sWCigkLzGdY?si=jw5ayTYo5kTHmb6Z).  
+For Pandas, I mostly learned from [Pandas by Ankit Bansal](https://youtu.be/sWCigkLzGdY?si=jw5ayTYo5kTHmb6Z).  
 I didn’t break it down into days, just picked up concepts and coded along. Whenever something was a bit confusing, I wrote short explanations for myself in Colab text cells.  
 
 Topics I covered:  
@@ -55,7 +55,7 @@ Topics I covered:
 
 ## NumPy  
 
-For NumPy, I again followed [Ankit Bansal’s Channel](https://youtu.be/viJgXuXOaEk?si=R-bb8piA92eQZLbF).  
+For NumPy, I again followed [Numpy by Ankit Bansal](https://youtu.be/viJgXuXOaEk?si=R-bb8piA92eQZLbF).  
 Same approach as Pandas → coded along and left short explanations in Colab text cells for future reference.  
 
 Topics I covered:  
