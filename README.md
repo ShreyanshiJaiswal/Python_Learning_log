@@ -36,7 +36,8 @@ I gave myself 10 days for this and split topics like this:
 ## Pandas  
 
 For Pandas, I mostly learned from [Pandas by Ankit Bansal](https://youtu.be/sWCigkLzGdY?si=jw5ayTYo5kTHmb6Z).  
-I didn’t break it down into days, just picked up concepts and coded along. Whenever something was a bit confusing, I wrote short explanations for myself in Colab text cells.  
+I didn’t break it down into days, just picked up concepts and coded along. Whenever something was a bit confusing, I wrote short explanations for myself in Colab text cells.
+I also used the **same CSV files** that Ankit Bansal used in his video. I’ve attached them here in this repo as well, since I practiced along with those datasets while following the video.  
 
 Topics I covered:  
 - basics (series, dataframe, creating dataframes)  
@@ -50,7 +51,7 @@ Topics I covered:
 - extra stuff like `.explode()`, `axis=1` functions  
 - datetime handling, resampling, rolling  
 
-📂 All notebooks are inside [`Pandas`](./02-Pandas/).  
+📂 All notebooks and csv files are [`here`](https://github.com/ShreyanshiJaiswal/Python_Learning_log/tree/main/Pandas).  
 
 ---
 
@@ -71,7 +72,7 @@ Topics I covered:
 - boolean indexing & filtering  
 - linear algebra basics (dot product, inverse, determinant)  
 
-📂 All notebooks are inside [`NumPy`](./03-NumPy/).  
+📂 Notebook is [`here`](https://github.com/ShreyanshiJaiswal/Python_Learning_log/blob/main/Numpy/Numpy.ipynb).  
 
 ---
 
