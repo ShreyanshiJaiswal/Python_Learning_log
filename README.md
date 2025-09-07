@@ -27,7 +27,9 @@ I gave myself 10 days for this and split topics like this:
 - Day 7 → modules & libraries (math, datetime, random, os, sys)  
 - Day 8 → lists & tuples  
 - Day 9 → dictionaries  
-- Day 10 → sets + revision  
+- Day 10 → sets + revision
+
+After this 10-day plan, I didn’t stop. I kept practicing **a little bit daily** using [Pynative](https://pynative.com/python/basics/) just to keep things fresh in my memory.
 
 📂 All notebooks are [here](https://github.com/ShreyanshiJaiswal/Python_Learning_log/tree/main/Python).  
 
